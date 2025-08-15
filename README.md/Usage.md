@@ -1,7 +1,7 @@
 # How to Run & Use the Application
 
 ## Accessing the Application
-- Open your browser and go to `http://localhost:3000`.
+- Open your browser and go to `http://localhost:5173`.
 
 ## Main Features
 - **Products**: Add, update, delete, and view products with details like name, price, and quantity.
