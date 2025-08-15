@@ -8,3 +8,4 @@
   - Sales records creation and management
   - Basic UI with React frontend
   - .NET Core backend API with SQL Server
+
